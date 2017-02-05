@@ -1,4 +1,4 @@
-package in.ahmrkb.prj;
+
 
 public class DBConfig {
 	private int dimensions;
