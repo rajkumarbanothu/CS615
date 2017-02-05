@@ -1,4 +1,4 @@
-package in.ahmrkb.prj;
+
 
 public final class ProjectValues {
 	public static int DIM_SIZE = 2;
