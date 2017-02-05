@@ -1,4 +1,4 @@
-package in.ahmrkb.prj;
+
 
 import in.ahmrkb.prj.SkylineAlgorithm.ALGOTYPE;
 import in.ahmrkb.skyline.point.BucketAlgorithm;
